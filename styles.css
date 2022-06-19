@@ -4,7 +4,7 @@ margin: 0;
 padding: 0;
 font-family: 'Poppins', sans-serif;
 font-size: 16px;
-background-image: url(../responsive/desktop.png);
+background-image: url(../desktop.png);
 background-color: hsl(0, 100%, 74%);
 background-repeat: repeat;
 background-position: center top;
@@ -123,7 +123,7 @@ margin-bottom: 15px;
 }
 
 .error-icon {
-background-image:url(../responsive/mobile.png);
+background-image:url(../mobile.png);
 background-repeat: no-repeat;
 background-position: 97% 49%;
 border: 2px solid hsl(0, 100%, 74%) !important;
