@@ -207,7 +207,7 @@ clear: both;
 @media only screen and (max-width: 768px) {
 
 body {
-  background-image: url(..mobile.png);
+  background-image:  url(../responsive/mobile.png);
 }
 
 main {
